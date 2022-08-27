@@ -1,4 +1,1 @@
-# codingdata1.github.io
-blog post
-
-#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
+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
